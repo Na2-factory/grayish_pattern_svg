@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "grayish-cstm-cover-path-lower-cir",
+  "content": "<!-- wp:cover {\"overlayColor\":\"white\",\"isUserOverlayColor\":true,\"isDark\":false,\"metadata\":{\"name\":\"SVG-円-下\"},\"align\":\"full\",\"style\":{\"spacing\":{\"margin\":{\"bottom\":\"0px\"}},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|lt-seven-blue\"}}}},\"textColor\":\"lt-seven-blue\",\"className\":\"cstm-cover-path-lower-cir cstm-blk-fullwide\",\"layout\":{\"type\":\"constrained\",\"contentSize\":\"100%\"}} -->\n<div class=\"wp-block-cover alignfull is-light cstm-cover-path-lower-cir cstm-blk-fullwide has-lt-seven-blue-color has-text-color has-link-color\" style=\"margin-bottom:0px\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-white-background-color has-background-dim-100 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:html -->\n<div class=\"svg-lower-cir\">\n<svg viewBox=\"0 0 1920 100\" preserveAspectRatio=\"none\">\n  <path d=\"M962.964 100H957.036C608.432 99.8117 281.608 66.3837 0 8.10023V0H1920V8.10023C1638.39 66.3837 1311.57 99.8117 962.964 100Z\" />\n</svg>\n</div>\n<!-- /wp:html --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}

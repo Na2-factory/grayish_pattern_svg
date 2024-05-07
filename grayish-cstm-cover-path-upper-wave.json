@@ -1,0 +1,6 @@
+{
+  "__file": "wp_block",
+  "title": "grayish-cstm-cover-path-upper-wave",
+  "content": "<!-- wp:cover {\"overlayColor\":\"white\",\"isUserOverlayColor\":true,\"isDark\":false,\"metadata\":{\"name\":\"SVG-波-上\"},\"align\":\"full\",\"style\":{\"spacing\":{\"margin\":{\"bottom\":\"0px\"}},\"elements\":{\"link\":{\"color\":{\"text\":\"var:preset|color|lt-yel-fifty\"}}}},\"textColor\":\"lt-yel-fifty\",\"className\":\"cstm-cover-path-upper-wave cstm-blk-fullwide\",\"layout\":{\"type\":\"constrained\",\"contentSize\":\"100%\"}} -->\n<div class=\"wp-block-cover alignfull is-light cstm-cover-path-upper-wave cstm-blk-fullwide has-lt-yel-fifty-color has-text-color has-link-color\" style=\"margin-bottom:0px\"><span aria-hidden=\"true\" class=\"wp-block-cover__background has-white-background-color has-background-dim-100 has-background-dim\"></span><div class=\"wp-block-cover__inner-container\"><!-- wp:html -->\n<div class=\"svg-upper-wave\">\n<svg viewBox=\"0 0 2000 100\" preserveAspectRatio=\"none\">\n  <path d=\"M500.625 0C247.562 1.59193e-09 142.869 32.1725 0 48.2587V100H2000V3.48259C1869.47 18.0763 1755.94 49.2537 1500.38 49.2537C1234.81 49.2537 753.688 1.59275e-09 500.625 0Z\" />\n</svg>\n</div>\n<!-- /wp:html --></div></div>\n<!-- /wp:cover -->",
+  "syncStatus": "unsynced"
+}
